@@ -30,7 +30,7 @@ Used **REST-assured**, a popular testing framework for RESTful APIs
 ### Prerequisites
 
 * JDK 21
-* Maven 3.3.1 or higher
+* Maven 3.6.3 or higher
 
 
 ### Executing tests
