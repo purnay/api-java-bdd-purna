@@ -5,7 +5,7 @@ This project has sample tests created to demonstrate API test automation with [C
 
 ## Objective
 
-Verification of the [Library Management System API](https://librarymanagementapisystem.onrender.com/api-docs/) endpoints
+Verification of the API endpoints
 
 
 ## High level test flow
