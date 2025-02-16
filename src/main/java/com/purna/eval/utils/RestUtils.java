@@ -18,7 +18,6 @@ import static io.restassured.RestAssured.given;
 
 @Slf4j
 @Component
-@ScenarioScope
 public class RestUtils implements InitializingBean {
 
     @Override
